@@ -1,0 +1,77 @@
+[
+    {
+      "name": "Python",
+      "description": "A Python course.",
+      "content": "[Course content here]"
+    },
+    {
+      "name": "JavaScript",
+      "description": "A JavaScript course.",
+      "content": "[Course content here]"
+    },
+    {
+      "name": "Java",
+      "description": "A Java course.",
+      "content": "[Course content here]"
+    },
+    {
+      "name": "C++",
+      "description": "A C++ course.",
+      "content": "[Course content here]"
+    },
+    {
+      "name": "Ruby",
+      "description": "A Ruby course.",
+      "content": "[Course content here]"
+    },
+    {
+      "name": "MySQL",
+      "description": "A MySQL course.",
+      "content": "[Course content here]"
+    },
+    {
+      "name": "MongoDB",
+      "description": "A MongoDB course.",
+      "content": "[Course content here]"
+    },
+    {
+      "name": "Introduction to Management",
+      "description": "An introductory course to management.",
+      "content": "[Course content here]"
+    },
+    {
+      "name": "Leadership in the Workplace",
+      "description": "A course on leadership skills in the workplace.",
+      "content": "[Course content here]"
+    },
+    {
+      "name": "Strategic Decision Making",
+      "description": "A course on strategic decision making in organizations.",
+      "content": "[Course content here]"
+    },
+    {
+      "name": "English",
+      "description": "An English language course.",
+      "content": "[Course content here]"
+    },
+    {
+      "name": "French",
+      "description": "A French language course.",
+      "content": "[Course content here]"
+    },
+    {
+      "name": "Spanish",
+      "description": "A Spanish language course.",
+      "content": "[Course content here]"
+    },
+    {
+      "name": "German",
+      "description": "A German language course.",
+      "content": "[Course content here]"
+    },
+    {
+      "name": "Introduction to Finance",
+      "description": "An introductory course to finance.",
+      "content": "[Course content here]"
+    }
+  ]  

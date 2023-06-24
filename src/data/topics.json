@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Programmation",
+        "courses": ["Python", "JavaScript", "Java", "C++", "Ruby"]
+    },
+    {
+        "name": "Database",
+        "courses": ["MySQL", "MongoDB"]
+    },
+    {
+        "name": "Management",
+        "courses": ["Introduction to Management", "Leadership in the Workplace", "Strategic Decision Making"]
+    },
+    {
+        "name": "Languages",
+        "courses": ["English", "French", "Spanish", "German"]
+    },
+    {
+        "name": "Economy",
+        "courses": ["Introduction to Finance"]
+    },
+    {
+        "name": "Make a Website",
+        "courses": ["JavaScript", "MySQL"]
+    },
+    {
+        "name": "Work internationaly",
+        "courses": ["Introduction to Management", "English", "Introduction to Finance"]
+    }
+]
